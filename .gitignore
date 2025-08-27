@@ -3,6 +3,11 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Additional Files to ignore
+Data/
+.DS_Store
+faiss2_index/
+
 # C extensions
 *.so
 
