@@ -13,4 +13,3 @@ LangChain is a software development framework designed to simplify the creation 
 - pip install faiss-cpu
 - pip install langchainhub
 - pip install langchain-community
-- pip install PyMuPDF

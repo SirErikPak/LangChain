@@ -6,7 +6,7 @@ __pycache__/
 # Additional Files to ignore
 Data/
 .DS_Store
-faiss2_index/
+VectorDB/
 
 # C extensions
 *.so
