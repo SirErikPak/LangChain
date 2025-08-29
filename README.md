@@ -13,3 +13,9 @@ LangChain is a software development framework designed to simplify the creation 
 - pip install faiss-cpu
 - pip install langchainhub
 - pip install langchain-community
+- pip install torch torchvision torchaudio
+- pip install transformers datasets
+- pip install accelerate
+- pip install bitsandbytes
+- pip install peft                                # for parameter-efficient fine-tuning (optional)
+- pip install protobuf sentencepiece
