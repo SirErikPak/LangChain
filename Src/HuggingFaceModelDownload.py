@@ -21,7 +21,7 @@ import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 # Define the model name and local directory
-model_name = "google/flan-t5-base "
+model_name = "google/flan-t5-base"
 local_dir = "../HuggingFace/flan-t5-base"
 
 # Use the correct class for the T5 model
